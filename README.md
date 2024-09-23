@@ -14,7 +14,6 @@ This project introduces **SmartLoanChain**, a novel credit-recommender system le
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
